@@ -28,7 +28,6 @@ function HomePage() {
 
     fetchPokemonList();
   }, []);
-
   
 
   useEffect(() => {
